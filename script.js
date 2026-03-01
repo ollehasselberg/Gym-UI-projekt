@@ -4,7 +4,7 @@ if (toggle) {
     toggle.addEventListener("click", () => {
         document.body.classList.toggle("dark");
 
-        // Spara tema i LocalStorage
+        // LocalStorage för att spara tema (mörkt/ljust)
         if (document.body.classList.contains("dark")) {
             localStorage.setItem("theme", "dark");
         } else {
@@ -13,7 +13,7 @@ if (toggle) {
     });
 }
 
-// Ladda tema från LocalStorage
+// Ladda sparat tema från LocalStorage
 if (localStorage.getItem("theme") === "dark") {
     document.body.classList.add("dark");
 }

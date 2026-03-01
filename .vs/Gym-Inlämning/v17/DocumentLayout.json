@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{70D781A0-2F81-4975-A0B4-8A06C542F757}|Project{70D781A0-2F81-4975-A0B4-8A06C542F757}|C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{70D781A0-2F81-4975-A0B4-8A06C542F757}|Project{70D781A0-2F81-4975-A0B4-8A06C542F757}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\page2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:page2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6C618BC5-A227-4B10-84CC-3DCA423C73EA}|docs{6C618BC5-A227-4B10-84CC-3DCA423C73EA}|C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\Dom\u00E4nmodell.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{6C618BC5-A227-4B10-84CC-3DCA423C73EA}|docs{6C618BC5-A227-4B10-84CC-3DCA423C73EA}|solutionrelative:Dom\u00E4nmodell.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\components.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:components.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|UI{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|UI{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|UI{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|UI{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|UI{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|UI{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|UI{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\components.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|UI{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:components.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|UI{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\page2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|UI{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:page2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +54,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-01T19:32:44.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dom\u00E4nmodell.md",
+              "DocumentMoniker": "C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\Dom\u00E4nmodell.md",
+              "RelativeDocumentMoniker": "Dom\u00E4nmodell.md",
+              "ToolTip": "C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\Dom\u00E4nmodell.md",
+              "RelativeToolTip": "Dom\u00E4nmodell.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-01T19:16:03.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-01T18:59:50.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "script.js",
               "DocumentMoniker": "C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\script.js",
               "RelativeDocumentMoniker": "script.js",
               "ToolTip": "C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\script.js",
               "RelativeToolTip": "script.js",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-03-01T16:47:57.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T16:47:57.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "style.css",
               "DocumentMoniker": "C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\style.css",
               "RelativeDocumentMoniker": "style.css",
@@ -63,12 +112,11 @@
               "RelativeToolTip": "style.css",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-01T16:47:38.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T16:47:38.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -76,12 +124,11 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-01T16:45:44.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T16:45:44.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "components.html",
               "DocumentMoniker": "C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\components.html",
               "RelativeDocumentMoniker": "components.html",
@@ -89,12 +136,11 @@
               "RelativeToolTip": "components.html",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-01T16:46:44.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T16:46:44.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "page2.html",
               "DocumentMoniker": "C:\\NBI\\Olle\\Projekt\\Databaser\\GymInl\u00E4mning\\Gym-Inl\u00E4mning\\page2.html",
               "RelativeDocumentMoniker": "page2.html",
@@ -102,8 +148,11 @@
               "RelativeToolTip": "page2.html",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-01T16:46:25.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T16:46:25.355Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
