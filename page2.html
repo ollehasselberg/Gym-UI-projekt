@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+
+<html lang="sv">
+<head>
+    <meta charset="UTF-8" />
+    <title>Boka Pass</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Boka Pass</h1>
+        <nav>
+            <a href="index.html">Tillbaka</a>
+            <button id="themeToggle">🌙</button>
+        </nav>
+    </header>
+
+    <main>
+
+        <!-- pass details -->
+        <section class="detail">
+            <h2>Yoga</h2>
+            <p>Instruktör: Anna</p>
+            <p>Tid: 18:00</p>
+            <p>Max deltagare: 20</p>
+        </section>
+
+        <!-- bokningsformulär -->
+        <section class="booking">
+            <h3>Boka ditt pass</h3>
+
+            <form id="bookingForm">
+
+                <div class="form-group">
+                    <label for="name">Namn</label>
+                    <input type="text" id="name" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" required>
+                </div>
+
+                <button type="submit" id="bookBtn">Boka</button>
+
+            </form>
+
+            <p id="status"></p>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>© 2026 Olles Gym</p>
+    </footer>
+
+<script src="script.js"></script>
+</body>
+</html>

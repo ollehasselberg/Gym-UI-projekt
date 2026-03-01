@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+
+<html lang="sv">
+<head>
+    <meta charset="UTF-8" />
+    <title>Olles Gym - Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Olles Gym</h1>
+        <nav>
+            <a href="index.html">Hem</a>
+            <a href="page2.html">Boka Pass</a>
+            <button id="themeToggle">🌙</button>
+        </nav>
+    </header>
+
+    <main>
+
+        <!-- landing-sida -->
+        <section class="landing">
+            <h2>Välkommen!</h2>
+            <p>Boka dina träningspass enkelt online.</p>
+        </section>
+
+        <!-- dashboard -->
+        <section class="dashboard">
+            <h3>Min Dashboard</h3>
+            <p>Du har <span id="bookingCount">0</span> bokningar.</p>
+        </section>
+
+        <!-- pass -->
+        <section class="list">
+            <h3>Kommande Pass</h3>
+
+            <article class="card">
+                <h4>Yoga</h4>
+                <p>Instruktör: Anna</p>
+                <p>Tid: 18:00</p>
+                <a class="btn" href="page2.html">Visa</a>
+            </article>
+
+            <article class="card">
+                <h4>Spinning</h4>
+                <p>Instruktör: Erik</p>
+                <p>Tid: 19:00</p>
+                <a class="btn" href="page2.html">Visa</a>
+            </article>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>© 2026 Olles Gym</p>
+    </footer>
+
+<script src="script.js"></script>
+</body>
+</html>
